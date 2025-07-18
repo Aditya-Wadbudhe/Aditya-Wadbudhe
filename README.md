@@ -22,7 +22,7 @@ Welcome to my GitHub! 💻✨
 ## 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=60&color=currentColor" alt="AWS" width="60" height="60"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
   &nbsp;
